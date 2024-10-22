@@ -9,4 +9,5 @@ import java.util.List;
 public class CategoryResponse {
 
     private List<Category> categoryList;
+    private Category category;
 }
